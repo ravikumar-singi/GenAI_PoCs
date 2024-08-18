@@ -1,1 +1,1 @@
-# LLM_PoCs
+# GEN AI_PoCs
