@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+ipykernel
+python-dotenv
+transformers
+langchain-chroma
+langchain-huggingface
